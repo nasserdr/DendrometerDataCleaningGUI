@@ -1,11 +1,6 @@
 Here is your updated **README.md** text in clean Markdown, with emojis added and the TODO/roadmap section removed:
 
-````markdown
 # dendroSense 🌲📊
-
-<!-- badges: start -->
-[![Travis build status](https://travis-ci.com/nasserdr/dendroSense.svg?branch=master)](https://travis-ci.com/nasserdr/dendroSense)
-<!-- badges: end -->
 
 DendroSense provides an intuitive graphical user interface and helper utilities for analysing dendrometer data. The package bundles common workflows—such as daily statistics, stem cycle metrics, and zero-growth phase detection—into a streamlined interface aimed at researchers who need to explore time-series measurements quickly. Under the hood, it implements the methods introduced in the original publication, helping analysts focus on interpreting measurements rather than wiring scripts together. 🌿📈
 
